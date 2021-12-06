@@ -1,8 +1,6 @@
 stage
-spooky
-philly
-limo
-mall
-mallEvil
-school
-schoolEvil
+void
+city
+hall
+market
+void-crazy
